@@ -1,0 +1,10 @@
+{
+    "tailwindCSS.lint.cssConflict": "warning",
+    "tailwindCSS.lint.invalidVariant": "ignore",
+    "tailwindCSS.lint.invalidApply": "warning",
+    "files.associations": {
+        "*.css": "tailwindcss"
+    }
+}
+
+
